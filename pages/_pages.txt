@@ -1,0 +1,4 @@
+Pagina's waaraan ik heb gewerkt in dit folder:
+Home.vue, Categories.vue en ProductCategories.vue.
+
+Andere pagina's van src/pages zijn in ontwikkeling en worden gebruikt nu voor vue-router.

@@ -1,0 +1,4 @@
+De main.js is een JavaScript-bestand dat de rootcomponent op een
+element op de pagina initialiseert.
+Het is ook verantwoordelijk voor het instellen van plug-ins en componenten.
+Ik heb style.css, icons en routers geïmporteerd in main.js.

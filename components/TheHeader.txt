@@ -1,0 +1,4 @@
+In TheHeader.vue bestand, met behulp van een loop v-for,
+ik itereer de array elementen headerLinks (geïmporteerd uit de _config.js).
+Wanneer de event (@click, @mouseenter, @mouselieve) wordt geactiveerd,
+wordt een geneste loop v-for van elementen de array childrens itereert ook.

@@ -1,0 +1,5 @@
+App.vue bevat de rootcomponent van de Vue-app.
+In deze app bestaat de App.vue uit een header,
+footer en app-pages die worden renderen met behulp <router-view />.
+Om het rootcomponent App.vue niet te verstoppen met een groot bestand
+met een data, heb ik de data naar een apart bestand (_config.js) verplaatst.

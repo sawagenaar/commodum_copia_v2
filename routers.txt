@@ -1,0 +1,2 @@
+Er is een router instance gemaakt.
+Ik heb de routes van de Pages geïmporteerd en geregistreerd.

@@ -1,0 +1,5 @@
+Er zijn twee Arrays of objects: headerLinks en footerLinks.
+Ze bestaan ​​uit navigatie-elementen.
+De geneste Array of objects "childrens" bestaat uit elementen uit het popup submenu "Producten".
+
+Ik gebruik ze in bestanden TheHeader.vue en TheFooter.vue.

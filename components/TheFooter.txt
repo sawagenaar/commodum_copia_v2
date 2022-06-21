@@ -1,0 +1,2 @@
+In TheFooter.vue bestand, met behulp van een loop v-for,
+ik itereer de array elementen footerLinks (geïmporteerd uit de _config.js).
