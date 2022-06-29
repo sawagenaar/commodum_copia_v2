@@ -1,1 +1,15 @@
-Assets bevatten een stijl- en pictogrambestand.
+Assets bevatten een stijl- en pictogrambestanden.
+Het stijlbestand bestaat uit:
+- Reset - basisinstellingen resetten,
+- Main - basis sitestijlen
+- Header - stijlen van Hader
+- Content - stijlen van de Homepage
+   - Special offer
+   - Sales
+   - News
+- Footer - stijlen van Footer
+- CategorieenPage - stijlen van pagina Categories
+- ProductsPage - stijlen van pagina ProductCategorie
+- Andere Pages - tijdelijke stijlen voor andere pagina's
+- media - stijlen voor adaptief sitegedrag
+
