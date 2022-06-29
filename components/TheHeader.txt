@@ -1,3 +1,6 @@
+De Header bevat twee hoofdblokken. Eerste bevat navigatie-elementen: hoofdmenu en pop-upmenu.
+De tweede block bevat zoek items.
+
 In TheHeader.vue bestand, met behulp van een loop v-for,
 ik itereer de array elementen headerLinks (geïmporteerd uit de _config.js).
 Wanneer de event (@click, @mouseenter, @mouselieve) wordt geactiveerd,
