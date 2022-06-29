@@ -1,2 +1,4 @@
+Met routes kunt u tussen verschillende pagina's schakelen zonder de site opnieuw te laden.
+
 Er is een router instance gemaakt.
 Ik heb de routes van de Pages geïmporteerd en geregistreerd.
