@@ -1,2 +1,6 @@
+De footer bevat twee hoofdblokken. De eerste bevat "Socialmedia links" en "Klantenservice contactopties".
+Er is hier ook ruimte gereserveerd voor het vak "Nieuwsbriefregistratie", dat later zal worden toegevoegd.
+De tweede block bevat elementen van navigatie.
+
 In TheFooter.vue bestand, met behulp van een loop v-for,
 ik itereer de array elementen footerLinks (geïmporteerd uit de _config.js).
